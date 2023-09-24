@@ -1,4 +1,3 @@
-import { useState } from 'react'
 import UserDisplay from './components/UserDisplay'
 import {useQuery} from "urql"
 import { GetUsersDocument } from './graphql/generated'
